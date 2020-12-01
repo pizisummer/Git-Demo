@@ -1,4 +1,4 @@
 package com.feiw;
 
-public class MainTest {
+public class  MainTest {
 }
